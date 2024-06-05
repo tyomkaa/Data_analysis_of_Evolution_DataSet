@@ -1,0 +1,6 @@
+Topic: Evolution of Humans (https://www.kaggle.com/datasets/santiago123678/evolution-of-humans-datasets-for-clasification)
+
+Project description: With 12,000 rows and 28 columns, this dataset covers a 
+wide range of traits of different hominids, from the earliest compatible 
+ancestors to modern Homo sapiens. The aim is to predict gender and 
+species or whether or not they were bipedal.
